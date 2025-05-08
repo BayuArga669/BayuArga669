@@ -1,6 +1,6 @@
 
 
-# Hello World!, I'm Bayu, a Web Developer 👋🏼:
+# Hello World!, I'm Bayu, I'm a Web Developer 👋🏼:
 Learn Web Developing Since 2020
 
 # 💻 Tech Stack:
